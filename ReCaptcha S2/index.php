@@ -1,7 +1,7 @@
 <html>
   <head>
     <title>reCAPTCHA demo: Explicit render after an onload callback</title>
-<script src="https://www.google.com/recaptcha/api.js" async defer></script> //https://developers.google.com/recaptcha/docs/display
+<script src="https://www.google.com/recaptcha/api.js" async defer></script> <!--https://developers.google.com/recaptcha/docs/display-->
 
   </head>
   <body>
